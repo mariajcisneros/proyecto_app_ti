@@ -194,7 +194,7 @@ th, td {
 }
 
 th {
-    background-color: #394867;
+    background-color: rgba(119, 137, 212, 0.965);
     color: #fff;
 }
 
@@ -296,7 +296,7 @@ tr:hover {
 /* Botones */
 /* Estilo para el botón Obtener Rentabilidades */
 .boton {
-    background-color: #007BFF;
+    background-color: #5090ad;
     color: #fff;
     height: 30px;
     padding: 10px 20px;
@@ -310,7 +310,7 @@ tr:hover {
 
 /* Cambio de color al pasar el ratón sobre el botón */
 .boton:hover {
-    background-color: #0056b3;
+    background-color: #93c1d6;
 }
 
 /* Estilo para los enlaces */

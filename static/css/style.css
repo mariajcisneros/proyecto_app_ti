@@ -7,7 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #f4f4f4;
-    color: #333;
+    color: #525151;
 }
 
 p {
@@ -15,13 +15,13 @@ p {
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
-    color: #555;
+    color: #3d3d3d;
 }
 
 a,
 a:hover,
 a:focus {
-    color: #007BFF;
+    color: #080808;
     text-decoration: none;
     transition: all 0.3s;
 }
@@ -58,8 +58,8 @@ a:focus {
 #sidebar {
     min-width: 250px;
     max-width: 250px;
-    background: #394867;
-    color: #fff;
+    background: rgba(119, 137, 212, 0.965);
+    color: #f8f8f8;
     transition: all 0.3s;
     height: 100vh;
 }
@@ -70,7 +70,7 @@ a:focus {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    background: #29354E;
+    background: #5090ad;
 }
 
 #sidebar ul.components {
@@ -90,7 +90,7 @@ a:focus {
 }
 
 #sidebar ul li a:hover {
-    color: #007BFF;
+    color: #070707;
     background: #fff;
 }
 
@@ -153,7 +153,7 @@ a.article:hover {
 
 /* Encabezados */
 h1, h2 {
-    color: #29354E;
+    color: #232f42;
 }
 
 /* MEDIAQUERIES */

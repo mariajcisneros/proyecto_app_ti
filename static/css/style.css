@@ -5,13 +5,13 @@
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins',Thin 100 Italic ;
     background: #f4f4f4;
     color: #525151;
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins',Thin 100 Italic;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
